@@ -117,6 +117,7 @@ footer{
     text-align: center;
     padding: 4px;
     text-decoration: none;
+    opacity: 0.5;
 }
 ul {
     list-style-type: none;
